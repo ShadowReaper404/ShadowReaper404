@@ -57,6 +57,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ShadowReaper404/ShadowReaper404/output/snake.svg" alt="Snake animation" />
-
 ###
