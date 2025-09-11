@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Thevindu Sithujaya Bandara.</h2>
+<h2 align="left">Hi 👋! My name is Thevindu Sithujaya.</h2>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Techno&duration=2000&pause=1000&width=435&lines=I'm+a+CyberSecurity+Enthusiast.;And+I'm+from+Sri+Lanka." alt="Typing SVG" /></a>
 
@@ -49,6 +49,12 @@
   </a>
   <a href="https://www.linkedin.com/in/thevindusithujaya/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+<div align="right">
+  <a href="https://open.spotify.com/user/Thevindu Sithujaya">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Thevindu%20Sithujaya&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
