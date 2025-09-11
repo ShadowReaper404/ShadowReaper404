@@ -1,4 +1,6 @@
-<h2 align="center">Hi 👋! My name is Thevindu Sithujaya Bandara and I'm a CyberSecurity Enthusiast, from Sri Lanka.</h2>
+<h2 align="center">Hi 👋! My name is Thevindu Sithujaya Bandara.</h2>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Techno&pause=1000&width=435&lines=I'm+a+CyberSecurity+Enthusiast.;And+I'm+from+Sri+Lanka." alt="Typing SVG" /></a>
 
 ###
 
