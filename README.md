@@ -53,9 +53,7 @@
 </div>
 
 <div align="right">
-  <a href="https://open.spotify.com/user/Thevindu Sithujaya">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Thevindu%20Sithujaya&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1wn1a4qmqz9azu84yif93lan5&count={count})
 </div>
 
 ###
