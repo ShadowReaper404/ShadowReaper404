@@ -1,8 +1,6 @@
 <h2 align="left">Hi 👋! My name is Thevindu Sithujaya Bandara.</h2>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Techno&pause=1000&width=435&lines=I'm+a+CyberSecurity+Enthusiast.;And+I'm+from+Sri+Lanka." alt="Typing SVG" /></a>
-
-###
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Techno&duration=2000&pause=1000&width=435&lines=I'm+a+CyberSecurity+Enthusiast.;And+I'm+from+Sri+Lanka." alt="Typing SVG" /></a>
 
 <div align="center">
   <img height="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhwcXBwb2x6cXpoZWNlbGJxa3locmtlbHF3bDFpZjRhY2gwZmY1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif"  />
