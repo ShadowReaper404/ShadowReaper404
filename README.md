@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Techno&duration=2000&pause=1000&width=435&lines=I'm+a+CyberSecurity+Enthusiast.;And+I'm+from+Sri+Lanka." alt="Typing SVG" /></a>
 
-<div align="center">
+<div align="left">
   <img height="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHg4Mjhzd2drY2E3N3FpZG5heHA5Z3hrYWRoemJ4enFrMGpuaHAxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u7vcwx7WynnExSb2PS/giphy.gif"  />
 </div>
 
@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ShadowReaper404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShadowReaper404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -52,12 +52,11 @@
   </a>
 </div>
 
-<div align="right">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1wn1a4qmqz9azu84yif93lan5&count={count})
-</div>
-
-###
-
 <br clear="both">
 
-###
+<div align="left">
+  <a href="https://open.spotify.com/user/Thevindu Sithujaya">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1wn1a4qmqz9azu84yif93lan5&count=1&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
