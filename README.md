@@ -1,67 +1,139 @@
-<h2 align="center">Hi 👋! My name is Thevindu Sithujaya.</h2>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Techno&duration=2000&pause=1000&width=435&lines=I'm+a+CyberSecurity+Enthusiast.;And+I'm+from+Sri+Lanka" alt="Typing SVG" /></a>
-
-<div align="center">
-  <img height="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHg4Mjhzd2drY2E3N3FpZG5heHA5Z3hrYWRoemJ4enFrMGpuaHAxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u7vcwx7WynnExSb2PS/giphy.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-
-###
+<!--
+  ██████╗ ███████╗ █████╗ ██████╗ ███╗   ███╗███████╗
+  README for ShadowReaper404 — GitHub Profile
+-->
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <a href="thevindusithujaya" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="thevindusithujaya@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/thevindusithujaya/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
+```
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                        ShadowReaper404 / README.md                                  ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" width="420">
+
+```                
+                    --                     
+             ##*##%%#*=%                   
+           =*#%%%%%%@%%%%%+                
+           =#%@%%@@%@@@%@@+-               
+           *%@@@@@@@@@@@@@#-               
+           +%#=+++++#*+*#@@                
+           #%=---:::-===+#@                
+            #=++*+-=*+++++%                
+           ==--==---===--=+=               
+           ---:..:::=:::-=+=               
+            ==:::-====--=*+                
+             +--=====+==+%                 
+              *==-=+==+*#%                 
+              **%*+**#%@#%*                
+            ==*++*#%@%%##++++              
+         ======+====+++++**++=====         
+     ======*#%**=-----+#%%##*+=========    
+  ===---=-======++-:-+#++===============   
+ ===---=----------=**=====---============+ 
+====-===----------==----------============+
+======----------====-----------======+====+
+=======-------=---------------====++++====+
+===+*+==----------==---------===+*#%+=====+
+===++#+===-------==----=--==-=++*#%*+====+=
+===++#*==========------==-===+****#*+======
+====*#*=++====----==-=========+*#*##++=+==+
+===+*#*#++========-============+**#%+=====+
+===+*%#+=========------=======+++*#@*======
+```
+
+</td>
+<td valign="top">
+
+```
+shadow@reaper ──────────────────────────────────────────
+  OS .............. Windows 11, macOS, Kali Linux
+  Host ............ Student / Security Researcher
+  Shell ........... zsh + bash
+  Editor .......... VSCode + Vim
+
+ ─ Languages.Programming ──────────────────────────────
+  Languages ......... Python, Java, TypeScript
+  Frontend .......... React, Vite, HTML, CSS
+  Markup/Config ..... JSON, YAML, Markdown
+
+ ─ Security.Arsenal ───────────────────────────────────
+  Network ........... Wireshark
+  Exploitation ...... Metasploit Framework
+  Web Pentesting .... Burp Suite, OWASP ZAP
+  OS ................ Kali Linux
+
+ ─ DevOps.Tooling ─────────────────────────────────────
+  Containers ........ Docker
+  Version Control ... Git
+
+ ─ Contact ────────────────────────────────────────────
+  Email.Personal .... thevindusithujaya@email.com
+  Email.Work ........ thevindusithujaya.work@email.com
+  LinkedIn .......... https://www.linkedin.com/in/thevindusithujaya/
+  Discord ........... your#discord
+
+ ─ GitHub.Stats ───────────────────────────────────────
+  Repos ............. 3   │  Stars ............ 4
+  Commits ........... 33  │  Followers ........ 2
+  Lines of Code ..... 22,346  ( 17965++ ,  4,381-- )
+```
+
+</td>
+</tr>
+</table>
 </div>
 
-###
-
-<br clear="both">
-
-
-###
+---
 
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+
+### 🛡️ Skills & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
 </div>
 
+---
 
+<div align="center">
 
+### 📊 GitHub Stats
 
+![ShadowReaper404's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShadowReaper404&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowReaper404&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ShadowReaper404&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+"The quieter you become, the more you are able to hear."
+                                        — Kali Linux motto
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ShadowReaper404&color=39ff14&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
