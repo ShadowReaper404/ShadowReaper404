@@ -16,75 +16,10 @@
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="top" width="420">
-
-```                
-                    --                     
-             ##*##%%#*=%                   
-           =*#%%%%%%@%%%%%+                
-           =#%@%%@@%@@@%@@+-               
-           *%@@@@@@@@@@@@@#-               
-           +%#=+++++#*+*#@@                
-           #%=---:::-===+#@                
-            #=++*+-=*+++++%                
-           ==--==---===--=+=               
-           ---:..:::=:::-=+=               
-            ==:::-====--=*+                
-             +--=====+==+%                 
-              *==-=+==+*#%                 
-              **%*+**#%@#%*                
-            ==*++*#%@%%##++++              
-         ======+====+++++**++=====         
-     ======*#%**=-----+#%%##*+=========    
-  ===---=-======++-:-+#++===============   
- ===---=----------=**=====---============+ 
-====-===----------==----------============+
-======----------====-----------======+====+
-=======-------=---------------====++++====+
-===+*+==----------==---------===+*#%+=====+
-===++#+===-------==----=--==-=++*#%*+====+=
-===++#*==========------==-===+****#*+======
-====*#*=++====----==-=========+*#*##++=+==+
-===+*#*#++========-============+**#%+=====+
-===+*%#+=========------=======+++*#@*======
-```
-
-</td>
 <td valign="top">
 
-```
-shadow@reaper ──────────────────────────────────────────
-  OS .............. Windows 11, macOS, Kali Linux
-  Host ............ Student / Security Researcher
-  Shell ........... zsh + bash
-  Editor .......... VSCode + Vim
+<img width="1960" height="1411" alt="image" src="https://github.com/user-attachments/assets/a58a2e7a-4d32-4f65-980c-97164f1637ca" />
 
- ─ Languages.Programming ──────────────────────────────
-  Languages ......... Python, Java, TypeScript
-  Frontend .......... React, Vite, HTML, CSS
-  Markup/Config ..... JSON, YAML, Markdown
-
- ─ Security.Arsenal ───────────────────────────────────
-  Network ........... Wireshark
-  Exploitation ...... Metasploit Framework
-  Web Pentesting .... Burp Suite, OWASP ZAP
-  OS ................ Kali Linux
-
- ─ DevOps.Tooling ─────────────────────────────────────
-  Containers ........ Docker
-  Version Control ... Git
-
- ─ Contact ────────────────────────────────────────────
-  Email.Personal .... thevindusithujaya@email.com
-  Email.Work ........ thevindusithujaya.work@email.com
-  LinkedIn .......... https://www.linkedin.com/in/thevindusithujaya/
-  Discord ........... your#discord
-
- ─ GitHub.Stats ───────────────────────────────────────
-  Repos ............. 3   │  Stars ............ 4
-  Commits ........... 33  │  Followers ........ 2
-  Lines of Code ..... 22,346  ( 17965++ ,  4,381-- )
-```
 
 </td>
 </tr>
