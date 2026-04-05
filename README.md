@@ -49,9 +49,11 @@
 
 ### 📊 GitHub Stats
 
+<!--
 ![ShadowReaper404's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShadowReaper404&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowReaper404&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9)
+-->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ShadowReaper404&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14)
 
