@@ -13,7 +13,7 @@ ShadowReaper404 / README.md
 <tr>
 <td valign="top">
 
-<img width="852" height="599" alt="Screenshot 2026-04-28 at 23 24 33" src="https://github.com/user-attachments/assets/ff48ec57-67e0-42f8-8cf1-eade3653ed1d" />
+<img width="921" height="691" alt="image" src="https://github.com/user-attachments/assets/00c0252c-3c75-4bca-a435-05807c1e867a" />
 
 
 </td>
